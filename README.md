@@ -1,2 +1,2 @@
 # RotaryActuator
-Rotary actuator with a clock movement actuator.
+Rotary actuator with a clock movement actuator
